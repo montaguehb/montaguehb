@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning vim motions
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Quicksort Algorithm in JavaScript](https://medium.com/@historia.montague/the-quicksort-algorithm-in-javascript-37258cbc49cf?source=rss-71e8a4ce0185------2)
 <!-- BLOG-POST-LIST:END -->
 ## My current tech stack
 
