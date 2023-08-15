@@ -1,8 +1,7 @@
 # Hi, I’m Historia 👋 </br></br> A full stack software engineer and coffee enthusiast ☕
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in cybersecurity, pentesting, and full stack web development
 - 🌱 I’m currently learning vim motions
-- 💞️ I’m looking to collaborate on ...
 
 ## My current tech stack
 
