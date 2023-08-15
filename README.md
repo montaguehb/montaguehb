@@ -2,7 +2,9 @@
 
 - 👀 I’m interested in cybersecurity, pentesting, and full stack web development
 - 🌱 I’m currently learning vim motions
-
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ## My current tech stack
 
 <img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
