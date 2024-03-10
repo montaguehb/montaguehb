@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning vim motions
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Intro to TensorFlow and Deep learning models](https://medium.com/@historia.montague/intro-to-tensorflow-and-deep-learning-models-7c19eb85b356?source=rss-71e8a4ce0185------2)
+- [Securing Your Website With TLS](https://medium.com/@historia.montague/securing-your-website-with-tls-34fe4c6a7cc1?source=rss-71e8a4ce0185------2)
+- [It’s all relative: Using Matrices for relative location](https://medium.com/@historia.montague/its-all-relative-using-matrices-for-relative-location-c40e0902c6b1?source=rss-71e8a4ce0185------2)
+- [A Brief Overview of Cryptography and RSA](https://medium.com/@historia.montague/a-brief-overview-of-cryptography-and-rsa-f63200e8f17c?source=rss-71e8a4ce0185------2)
 - [The Quicksort Algorithm in JavaScript](https://medium.com/@historia.montague/the-quicksort-algorithm-in-javascript-37258cbc49cf?source=rss-71e8a4ce0185------2)
 <!-- BLOG-POST-LIST:END -->
 ## My current tech stack
